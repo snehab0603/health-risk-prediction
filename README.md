@@ -90,3 +90,7 @@ For privacy and security, the local database file should **not** be uploaded to 
 ## Disclaimer
 
 This application is an educational/project demonstration. Its predictions should not be used for medical diagnosis or treatment decisions.
+
+## Application Preview
+
+![Health Risk Prediction App](streamlit-2.png)
